@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>СмотриФильмы - Онлайн кинотеатр</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">СмотриФильмы</div>
+        <div class="header-content">
+            <div class="movie-count">
+                <p>В данный момент на нашем сервисе представлено: <span id="movie-count">0</span> фильмов.</p>
+            </div>
+            <div class="sort-search">
+                <p>сортировка:</p>
+                <select name="sort" id="sort">
+                    <option value="id">в порядке добавления</option>
+                    <option value="name">по названию</option>
+                    <option value="year">по году выпуска</option>
+                </select>
+                <p>поиск:</p>
+                <input type="text" placeholder="введите название фильма">
+                <button id="search">
+                    <img src="images/search.svg" alt="">
+                </button>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="movies-container" id="movies-container"></div>
+        <div id="movie-detail-modal" class="modal">
+            <div class="modal-content">
+                <span class="close">X</span>
+                <div id="movie-detail"></div>
+            </div>
+        </div>
+        <div id="screenshot-modal" class="modal">
+            <span class="close">X</span>
+            <img class="modal-content" id="full-screenshot" src="" alt="">
+        </div>
+    </main>
+    <footer>
+        <p>2025 СмотриФильмы. Все права защищены.</p>
+    </footer>
+    <script src="js/script.js"></script>
+</body>
+</html>
