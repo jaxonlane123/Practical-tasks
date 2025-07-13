@@ -20,13 +20,13 @@
         "year": 2010,
         "genre": "фантастика, боевик, триллер, драма, детектив",
         "description": "Кобб – талантливый вор, лучший из лучших в опасном искусстве извлечения: он крадет ценные секреты из глубин подсознания во время сна, когда человеческий разум наиболее уязвим. Редкие способности Кобба сделали его ценным игроком в привычном к предательству мире промышленного шпионажа, но они же превратили его в извечного беглеца и лишили всего, что он когда-либо любил. И вот у Кобба появляется шанс исправить ошибки. Его последнее дело может вернуть все назад, но для этого ему нужно совершить невозможное – инициацию. Вместо идеальной кражи Кобб и его команда спецов должны будут провернуть обратное. Теперь их задача – не украсть идею, а внедрить ее. Если у них получится, это и станет идеальным преступлением. Но никакое планирование или мастерство не могут подготовить команду к встрече с опасным противником, который, кажется, предугадывает каждый их ход. Врагом, увидеть которого мог бы лишь Кобб.",
-        "cover": "../images/Inception/cover.webp",
+        "cover": "images/Inception/cover.webp",
         "screenshots": [
-            "../images/Inception/screen1.webp",
-            "../images/Inception/screen2.webp",
-            "../images/Inception/screen3.webp",
-            "../images/Inception/screen4.webp",
-            "../images/Inception/screen5.webp"
+            "images/Inception/screen1.webp",
+            "images/Inception/screen2.webp",
+            "images/Inception/screen3.webp",
+            "images/Inception/screen4.webp",
+            "images/Inception/screen5.webp"
         ]
     },
     {
@@ -35,13 +35,13 @@
         "year": 2025,
         "genre": "ужасы, боевик",
         "description": "28 лет в Великобритании бушует вирус, превращающий заражённых в агрессивных плотоядных тварей. В этом ужасном мире маленький мальчик пытается найти врача для умирающей мамы.",
-        "cover": "../images/28 Years Later/cover.webp",
+        "cover": "images/28 Years Later/cover.webp",
         "screenshots": [
-            "../images/28 Years Later/screen1.webp",
-            "../images/28 Years Later/screen2.webp",
-            "../images/28 Years Later/screen3.webp",
-            "../images/28 Years Later/screen4.webp",
-            "../images/28 Years Later/screen5.webp"
+            "images/28 Years Later/screen1.webp",
+            "images/28 Years Later/screen2.webp",
+            "images/28 Years Later/screen3.webp",
+            "images/28 Years Later/screen4.webp",
+            "images/28 Years Later/screen5.webp"
         ]
     },
     {
@@ -50,13 +50,13 @@
         "year": 2019,
         "genre": "криминал, комедия, боевик",
         "description": "Один ушлый американец ещё со студенческих лет приторговывал наркотиками, а теперь придумал схему нелегального обогащения с использованием поместий обедневшей английской аристократии и очень неплохо на этом разбогател. Другой пронырливый журналист приходит к Рэю, правой руке американца, и предлагает тому купить киносценарий, в котором подробно описаны преступления его босса при участии других представителей лондонского криминального мира — партнёра-еврея, китайской диаспоры, чернокожих спортсменов и даже русского олигарха.",
-        "cover": "../images/The Gentlemen/cover.webp",
+        "cover": "images/The Gentlemen/cover.webp",
         "screenshots": [
-            "../images/The Gentlemen/screen1.webp",
-            "../images/The Gentlemen/screen2.webp",
-            "../images/The Gentlemen/screen3.webp",
-            "../images/The Gentlemen/screen4.webp",
-            "../images/The Gentlemen/screen5.webp"
+            "images/The Gentlemen/screen1.webp",
+            "images/The Gentlemen/screen2.webp",
+            "images/The Gentlemen/screen3.webp",
+            "images/The Gentlemen/screen4.webp",
+            "images/The Gentlemen/screen5.webp"
         ]
     },
     {
@@ -65,13 +65,13 @@
         "year": 2024,
         "genre": "фэнтези, мелодрама, приключения, комедия",
         "description": "Царь собирается выдать свою дочь Забаву за красавца Поля, единственного наследника богача Полкана. Вот только царевна хочет выйти замуж по любви. Её неожиданное знакомство с простым, но честным и обаятельным матросом Иваном вносит смуту в планы хитреца Поля заполучить корону. И если в руках злодея тёмная магия и богатство, то на стороне Ивана — волшебные существа, любовь и мечта.",
-        "cover": "../images/Летучий корабль/cover.webp",
+        "cover": "images/Летучий корабль/cover.webp",
         "screenshots": [
-            "../images/Летучий корабль/screen1.webp",
-            "../images/Летучий корабль/screen2.webp",
-            "../images/Летучий корабль/screen3.webp",
-            "../images/Летучий корабль/screen4.webp",
-            "../images/Летучий корабль/screen5.webp"
+            "images/Летучий корабль/screen1.webp",
+            "images/Летучий корабль/screen2.webp",
+            "images/Летучий корабль/screen3.webp",
+            "images/Летучий корабль/screen4.webp",
+            "images/Летучий корабль/screen5.webp"
         ]
     },
     {
@@ -80,13 +80,13 @@
         "year": 2017,
         "genre": "фантастика, фэнтези, драма",
         "description": "Стесненный в средствах американец и его жена решают, что жить в крохотном теле будет легче и дешевле. Вместе с толпами добровольцев они направляются на процедуру уменьшения. К сожалению для мужчины, в последнюю минуту его жена передумает.",
-        "cover": "../images/Downsizing/cover.webp",
+        "cover": "images/Downsizing/cover.webp",
         "screenshots": [
-            "../images/Downsizing/screen1.webp",
-            "../images/Downsizing/screen2.webp",
-            "../images/Downsizing/screen3.webp",
-            "../images/Downsizing/screen4.webp",
-            "../images/Downsizing/screen5.webp"
+            "images/Downsizing/screen1.webp",
+            "images/Downsizing/screen2.webp",
+            "images/Downsizing/screen3.webp",
+            "images/Downsizing/screen4.webp",
+            "images/Downsizing/screen5.webp"
         ]
     },
     {
@@ -95,13 +95,13 @@
         "year": 2019,
         "genre": "детектив, комедия, драма, криминал",
         "description": "На следующее утро после празднования 85-летия известного автора криминальных романов Харлана Тромби виновника торжества находят мёртвым. Налицо — явное самоубийство, но полиция по протоколу опрашивает всех присутствующих в особняке членов семьи, хотя, в этом деле больше заинтересован частный детектив Бенуа Блан. Тем же утром он получил конверт с наличными от неизвестного и заказ на расследование смерти Харлана. Не нужно быть опытным следователем, чтобы понять, что все приукрашивают свои отношения с почившим главой семейства, но Блану достаётся настоящий подарок — медсестра покойного, которая физически не выносит ложь.",
-        "cover": "../images/Knives Out/cover.webp",
+        "cover": "images/Knives Out/cover.webp",
         "screenshots": [
-            "../images/Knives Out/screen1.webp",
-            "../images/Knives Out/screen2.webp",
-            "../images/Knives Out/screen3.webp",
-            "../images/Knives Out/screen4.webp",
-            "../images/Knives Out/screen5.webp"
+            "images/Knives Out/screen1.webp",
+            "images/Knives Out/screen2.webp",
+            "images/Knives Out/screen3.webp",
+            "images/Knives Out/screen4.webp",
+            "images/Knives Out/screen5.webp"
         ]
     },
     {
@@ -110,13 +110,13 @@
         "year": 1999,
         "genre": "триллер, драма, криминал",
         "description": "Сотрудник страховой компании страдает хронической бессонницей и отчаянно пытается вырваться из мучительно скучной жизни. Однажды в очередной командировке он встречает некоего Тайлера Дёрдена — харизматического торговца мылом с извращенной философией. Тайлер уверен, что самосовершенствование — удел слабых, а единственное, ради чего стоит жить, — саморазрушение. Проходит немного времени, и вот уже новые друзья лупят друг друга почем зря на стоянке перед баром, и очищающий мордобой доставляет им высшее блаженство. Приобщая других мужчин к простым радостям физической жестокости, они основывают тайный Бойцовский клуб, который начинает пользоваться невероятной популярностью.",
-        "cover": "../images/Fight Club/cover.webp",
+        "cover": "images/Fight Club/cover.webp",
         "screenshots": [
-            "../images/Fight Club/screen1.webp",
-            "../images/Fight Club/screen2.webp",
-            "../images/Fight Club/screen3.webp",
-            "../images/Fight Club/screen4.webp",
-            "../images/Fight Club/screen5.webp"
+            "images/Fight Club/screen1.webp",
+            "images/Fight Club/screen2.webp",
+            "images/Fight Club/screen3.webp",
+            "images/Fight Club/screen4.webp",
+            "images/Fight Club/screen5.webp"
         ]
     },
     {
@@ -125,13 +125,13 @@
         "year": 2009,
         "genre": "боевик, драма, комедия, военный",
         "description": "Вторая мировая война. В оккупированной немцами Франции группа американских солдат-евреев наводит страх на нацистов, жестоко убивая и скальпируя солдат.",
-        "cover": "../images/Inglourious Basterds/cover.webp",
+        "cover": "images/Inglourious Basterds/cover.webp",
         "screenshots": [
-            "../images/Inglourious Basterds/screen1.webp",
-            "../images/Inglourious Basterds/screen2.webp",
-            "../images/Inglourious Basterds/screen3.webp",
-            "../images/Inglourious Basterds/screen4.webp",
-            "../images/Inglourious Basterds/screen5.webp"
+            "images/Inglourious Basterds/screen1.webp",
+            "images/Inglourious Basterds/screen2.webp",
+            "images/Inglourious Basterds/screen3.webp",
+            "images/Inglourious Basterds/screen4.webp",
+            "images/Inglourious Basterds/screen5.webp"
         ]
     },
     {
@@ -140,13 +140,13 @@
         "year": 2006,
         "genre": "триллер, фантастика, драма, детектив",
         "description": "Роберт и Альфред - фокусники-иллюзионисты, которые на рубеже XIX и XX веков соперничали друг с другом в Лондоне. С годами их дружеская конкуренция на профессиональной почве перерастает в настоящую войну. Они готовы на все, чтобы выведать друг у друга секреты фантастических трюков и сорвать их исполнение. Непримиримая вражда, вспыхнувшая между ними, начинает угрожать жизни окружающих их людей…",
-        "cover": "../images/The Prestige/cover.webp",
+        "cover": "images/The Prestige/cover.webp",
         "screenshots": [
-            "../images/The Prestige/screen1.webp",
-            "../images/The Prestige/screen2.webp",
-            "../images/The Prestige/screen3.webp",
-            "../images/The Prestige/screen4.webp",
-            "../images/The Prestige/screen5.webp"
+            "images/The Prestige/screen1.webp",
+            "images/The Prestige/screen2.webp",
+            "images/The Prestige/screen3.webp",
+            "images/The Prestige/screen4.webp",
+            "images/The Prestige/screen5.webp"
         ]
     },
     {
@@ -155,13 +155,13 @@
         "year": 2023,
         "genre": "биография, драма, история",
         "description": "История жизни американского физика-теоретика Роберта Оппенгеймера, который во времена Второй мировой войны руководил Манхэттенским проектом — секретными разработками ядерного оружия.",
-        "cover": "../images/Oppenheimer/cover.webp",
+        "cover": "images/Oppenheimer/cover.webp",
         "screenshots": [
-            "../images/Oppenheimer/screen1.webp",
-            "../images/Oppenheimer/screen2.webp",
-            "../images/Oppenheimer/screen3.webp",
-            "../images/Oppenheimer/screen4.webp",
-            "../images/Oppenheimer/screen5.webp"
+            "images/Oppenheimer/screen1.webp",
+            "images/Oppenheimer/screen2.webp",
+            "images/Oppenheimer/screen3.webp",
+            "images/Oppenheimer/screen4.webp",
+            "images/Oppenheimer/screen5.webp"
         ]
     },
     {
@@ -170,13 +170,13 @@
         "year": 1994,
         "genre": "драма",
         "description": "Бухгалтер Энди Дюфрейн обвинён в убийстве собственной жены и её любовника. Оказавшись в тюрьме под названием Шоушенк, он сталкивается с жестокостью и беззаконием, царящими по обе стороны решётки. Каждый, кто попадает в эти стены, становится их рабом до конца жизни. Но Энди, обладающий живым умом и доброй душой, находит подход как к заключённым, так и к охранникам, добиваясь их особого к себе расположения.",
-        "cover": "../images/The Shawshank Redemption/cover.webp",
+        "cover": "images/The Shawshank Redemption/cover.webp",
         "screenshots": [
-            "../images/The Shawshank Redemption/screen1.webp",
-            "../images/The Shawshank Redemption/screen2.webp",
-            "../images/The Shawshank Redemption/screen3.webp",
-            "../images/The Shawshank Redemption/screen4.webp",
-            "../images/The Shawshank Redemption/screen5.webp"
+            "images/The Shawshank Redemption/screen1.webp",
+            "images/The Shawshank Redemption/screen2.webp",
+            "images/The Shawshank Redemption/screen3.webp",
+            "images/The Shawshank Redemption/screen4.webp",
+            "images/The Shawshank Redemption/screen5.webp"
         ]
     },
     {
@@ -185,13 +185,13 @@
         "year": 2007,
         "genre": "триллер, драма, криминал, вестерн",
         "description": "Обычный работяга обнаруживает в пустыне гору трупов, набитый героином грузовик и соблазнительную сумму в два миллиона долларов наличными. Он решает взять деньги себе, и результатом становится волна насилия, которую не может остановить вся полиция Западного Техаса.",
-        "cover": "../images/No Country for Old Men/cover.webp",
+        "cover": "images/No Country for Old Men/cover.webp",
         "screenshots": [
-            "../images/No Country for Old Men/screen1.webp",
-            "../images/No Country for Old Men/screen2.webp",
-            "../images/No Country for Old Men/screen3.webp",
-            "../images/No Country for Old Men/screen4.webp",
-            "../images/No Country for Old Men/screen5.webp"
+            "images/No Country for Old Men/screen1.webp",
+            "images/No Country for Old Men/screen2.webp",
+            "images/No Country for Old Men/screen3.webp",
+            "images/No Country for Old Men/screen4.webp",
+            "images/No Country for Old Men/screen5.webp"
         ]
     },
     {
@@ -200,13 +200,13 @@
         "year": 2021,
         "genre": "боевик, триллер, криминал",
         "description": "Непримечательный и незаметный семьянин Хатч живёт скучной жизнью обычного аудитора, пока однажды в его дом не вламываются грабители. И это бы сошло им с рук, если бы они не забрали браслетик его маленькой дочки. Не в силах это терпеть, Хатч отправляется на поиски наглецов, а на обратном пути ввязывается в драку с пьяными хулиганами, пристававшими к девушке в общественном транспорте. От души помахав кулаками, наш аудитор отправляет дебоширов в больницу, но оказывается, что один из пострадавших — брат влиятельного русского бандита. И он теперь жаждет мести.",
-        "cover": "../images/Nobody/cover.webp",
+        "cover": "images/Nobody/cover.webp",
         "screenshots": [
-            "../images/Nobody/screen1.webp",
-            "../images/Nobody/screen2.webp",
-            "../images/Nobody/screen3.webp",
-            "../images/Nobody/screen4.webp",
-            "../images/Nobody/screen5.webp"
+            "images/Nobody/screen1.webp",
+            "images/Nobody/screen2.webp",
+            "images/Nobody/screen3.webp",
+            "images/Nobody/screen4.webp",
+            "images/Nobody/screen5.webp"
         ]
     },
     {
@@ -215,13 +215,13 @@
         "year": 2023,
         "genre": "драма, фэнтези, мелодрама",
         "description": "Москва, 1930-е годы. Популярный драматург обвиняется в антисоветчине: спектакль по его пьесе отменяют, а самого его выгоняют из союза литераторов. В не самый лучший момент своей жизни он встречает глубоко несчастную в браке красавицу Маргариту и начинает новый роман, героями которого становятся люди из его окружения, в том числе — мистический персонаж Воланд, списанный со знакомого иностранца.",
-        "cover": "../images/Мастер и Маргарита/cover.webp",
+        "cover": "images/Мастер и Маргарита/cover.webp",
         "screenshots": [
-            "../images/Мастер и Маргарита/screen1.webp",
-            "../images/Мастер и Маргарита/screen2.webp",
-            "../images/Мастер и Маргарита/screen3.webp",
-            "../images/Мастер и Маргарита/screen4.webp",
-            "../images/Мастер и Маргарита/screen5.webp"
+            "images/Мастер и Маргарита/screen1.webp",
+            "images/Мастер и Маргарита/screen2.webp",
+            "images/Мастер и Маргарита/screen3.webp",
+            "images/Мастер и Маргарита/screen4.webp",
+            "images/Мастер и Маргарита/screen5.webp"
         ]
     },
     {
@@ -230,13 +230,13 @@
         "year": 2002,
         "genre": "криминал, биография, комедия",
         "description": "Фрэнк Эбегнейл успел поработать врачом, адвокатом и пилотом на пассажирской авиалинии – и все это до достижения полного совершеннолетия в 21 год. Мастер в обмане и жульничестве, он также обладал искусством подделки документов, что в конечном счете принесло ему миллионы долларов, которые он получил по фальшивым чекам. Агент ФБР Карл Хэнрэтти отдал бы все, чтобы схватить Фрэнка и привлечь к ответственности за свои деяния, но Фрэнк всегда опережает его на шаг, заставляя продолжать погоню.",
-        "cover": "../images/Catch Me If You Can/cover.webp",
+        "cover": "images/Catch Me If You Can/cover.webp",
         "screenshots": [
-            "../images/Catch Me If You Can/screen1.webp",
-            "../images/Catch Me If You Can/screen2.webp",
-            "../images/Catch Me If You Can/screen3.webp",
-            "../images/Catch Me If You Can/screen4.webp",
-            "../images/Catch Me If You Can/screen5.webp"
+            "images/Catch Me If You Can/screen1.webp",
+            "images/Catch Me If You Can/screen2.webp",
+            "images/Catch Me If You Can/screen3.webp",
+            "images/Catch Me If You Can/screen4.webp",
+            "images/Catch Me If You Can/screen5.webp"
         ]
     },
     {
@@ -245,13 +245,13 @@
         "year": 2014,
         "genre": "триллер, драма, детектив",
         "description": "Всё было готово для празднования пятилетия супружеской жизни, когда вдруг необъяснимо пропала виновница торжества. Остались следы борьбы в доме, кровь, которую явно пытались стереть, и цепочка подсказок в игре «охота за сокровищами» - жена ежегодно устраивала её для своего обожаемого мужа. И похоже, что эти подсказки дают шанс пролить свет на судьбу исчезнувшей.",
-        "cover": "../images/Gone Girl/cover.webp",
+        "cover": "images/Gone Girl/cover.webp",
         "screenshots": [
-            "../images/Gone Girl/screen1.webp",
-            "../images/Gone Girl/screen2.webp",
-            "../images/Gone Girl/screen3.webp",
-            "../images/Gone Girl/screen4.webp",
-            "../images/Gone Girl/screen5.webp"
+            "images/Gone Girl/screen1.webp",
+            "images/Gone Girl/screen2.webp",
+            "images/Gone Girl/screen3.webp",
+            "images/Gone Girl/screen4.webp",
+            "images/Gone Girl/screen5.webp"
         ]
     },
     {
@@ -260,13 +260,13 @@
         "year": 2000,
         "genre": "драма",
         "description": "Каждый стремится к своей заветной мечте. Сара Голдфарб мечтала сняться в известном телешоу, ее сын Гарольд с другом Тайроном — сказочно разбогатеть, подруга Гарольда Мэрион грезила о собственном модном магазине, но на их пути были всевозможные препятствия. Все они выбирают неочевидные пути достижения своих целей, и мечты по-прежнему остаются недостижимыми, а жизни героев рушатся безвозвратно.",
-        "cover": "../images/Requiem for a Dream/cover.webp",
+        "cover": "images/Requiem for a Dream/cover.webp",
         "screenshots": [
-            "../images/Requiem for a Dream/screen1.webp",
-            "../images/Requiem for a Dream/screen2.webp",
-            "../images/Requiem for a Dream/screen3.webp",
-            "../images/Requiem for a Dream/screen4.webp",
-            "../images/Requiem for a Dream/screen5.webp"
+            "images/Requiem for a Dream/screen1.webp",
+            "images/Requiem for a Dream/screen2.webp",
+            "images/Requiem for a Dream/screen3.webp",
+            "images/Requiem for a Dream/screen4.webp",
+            "images/Requiem for a Dream/screen5.webp"
         ]
     },
     {
@@ -275,13 +275,13 @@
         "year": 2019,
         "genre": "ужасы, драма, триллер",
         "description": "День летнего солнцестояния — древний праздник, который во всех культурах окутан мистическим ореолом. В отрезанном от цивилизованного мира шведском поселении в этот день проводятся уникальные обряды с многовековой традицией. Именно туда отправляется группа молодых американских студентов-антропологов, прихватив с собой девушку одного из них. Однако вскоре после прибытия друзья выясняют, что местные обряды далеко не безобидны.",
-        "cover": "../images/Midsommar/cover.webp",
+        "cover": "images/Midsommar/cover.webp",
         "screenshots": [
-            "../images/Midsommar/screen1.webp",
-            "../images/Midsommar/screen2.webp",
-            "../images/Midsommar/screen3.webp",
-            "../images/Midsommar/screen4.webp",
-            "../images/Midsommar/screen5.webp"
+            "images/Midsommar/screen1.webp",
+            "images/Midsommar/screen2.webp",
+            "images/Midsommar/screen3.webp",
+            "images/Midsommar/screen4.webp",
+            "images/Midsommar/screen5.webp"
         ]
     },
     {
@@ -290,13 +290,13 @@
         "year": 2003,
         "genre": "фэнтези, боевик, приключения",
         "description": "Жизнь харизматичного авантюриста, капитана Джека Воробья, полная увлекательных приключений, резко меняется, когда его заклятый враг капитан Барбосса похищает корабль Джека Черную Жемчужину, а затем нападает на Порт Ройал и крадет прекрасную дочь губернатора Элизабет Свонн. Друг детства Элизабет Уилл Тернер вместе с Джеком возглавляет спасательную экспедицию на самом быстром корабле Британии, чтобы вызволить девушку и заодно отобрать у злодея Черную Жемчужину. Вслед за этой парочкой отправляется амбициозный коммодор Норрингтон, который к тому же числится женихом Элизабет. Однако Уилл не знает, что над Барбоссой висит вечное проклятие, при лунном свете превращающее его с командой в живых скелетов. Проклятье будет снято лишь тогда, когда украденное золото Ацтеков будет возвращено пиратами на старое место.",
-        "cover": "../images/Pirates of the Caribbean The Curse of the Black Pearl/cover.webp",
+        "cover": "images/Pirates of the Caribbean The Curse of the Black Pearl/cover.webp",
         "screenshots": [
-            "../images/Pirates of the Caribbean The Curse of the Black Pearl/screen1.webp",
-            "../images/Pirates of the Caribbean The Curse of the Black Pearl/screen2.webp",
-            "../images/Pirates of the Caribbean The Curse of the Black Pearl/screen3.webp",
-            "../images/Pirates of the Caribbean The Curse of the Black Pearl/screen4.webp",
-            "../images/Pirates of the Caribbean The Curse of the Black Pearl/screen5.webp"
+            "images/Pirates of the Caribbean The Curse of the Black Pearl/screen1.webp",
+            "images/Pirates of the Caribbean The Curse of the Black Pearl/screen2.webp",
+            "images/Pirates of the Caribbean The Curse of the Black Pearl/screen3.webp",
+            "images/Pirates of the Caribbean The Curse of the Black Pearl/screen4.webp",
+            "images/Pirates of the Caribbean The Curse of the Black Pearl/screen5.webp"
         ]
     }
 ]
